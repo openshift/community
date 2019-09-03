@@ -9,5 +9,5 @@
 * Dusty Mabe
 * Sanja Bonic
 * Aleksandar Lazic
-* Roland Lichtl
+* Roland Lichti
 * Neal Gompa
