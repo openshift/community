@@ -8,4 +8,6 @@ Designs, technical proposals, and issues are tracked in the [openshift/enhanceme
 Get involved
 ------------
 
-Discuss on [Kubernetes Slack in #openshift-dev](https://slack.k8s.io) 
+Discuss on:
+* [Kubernetes Slack in #openshift-dev](https://kubernetes.slack.com) ([Get invite](https://slack.k8s.io))
+* [OKD-WG on Google Groups](https://groups.google.com/forum/#!forum/okd-wg)
