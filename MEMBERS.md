@@ -12,3 +12,4 @@
 * Roland Lichti
 * Neal Gompa
 * Vadim Rutkovsky
+* James Cassell
