@@ -11,3 +11,4 @@
 * Aleksandar Lazic
 * Roland Lichti
 * Neal Gompa
+* Vadim Rutkovsky
