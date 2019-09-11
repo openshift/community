@@ -12,3 +12,17 @@
 * Roland Lichti
 * Neal Gompa
 * Vadim Rutkovsky
+* Michael McCune
+* Brian Jarvis
+* Jason Brooks
+* Klaas Demter
+* James Cassell
+* Charro Gruver
+* Philipp Dallig
+* Freark van der Bos
+* Gleidson Nascimento
+* Glenn West
+* Stephen Greene
+* Andrej Golis
+* Bryan Hepworth
+* Antonio Murdaca
