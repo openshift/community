@@ -26,3 +26,4 @@
 * Andrej Golis
 * Bryan Hepworth
 * Antonio Murdaca
+* Jaime Magiera
