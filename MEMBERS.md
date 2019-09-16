@@ -27,3 +27,4 @@
 * Bryan Hepworth
 * Antonio Murdaca
 * Jaime Magiera
+* Jay Ryan
