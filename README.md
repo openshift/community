@@ -11,3 +11,14 @@ Get involved
 Discuss on:
 * [Kubernetes Slack in #openshift-dev](https://kubernetes.slack.com) ([Get invite](https://slack.k8s.io))
 * [OKD-WG on Google Groups](https://groups.google.com/forum/#!forum/okd-wg)
+
+OKD Working Group Meetings
+--------------------------
+
+The OKD Working Group meets on a Bi-weekly cadence on Tuesdays at 17:00 UTC 
+
+Next Meeting:
+  Tuesday 17:00 UTC October 15, 2019
+  Meeting dial-in details, meeting notes and agendas are announced and published on the [OKD-WG on Google Groups](https://groups.google.com/forum/#!forum/okd-wg)
+  
+  
