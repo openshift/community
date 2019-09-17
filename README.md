@@ -17,8 +17,9 @@ OKD Working Group Meetings
 
 The OKD Working Group meets on a Bi-weekly cadence on Tuesdays at 17:00 UTC 
 
-Next Meeting:
+Next Scheduled Meeting:
   Tuesday 17:00 UTC October 15, 2019
-  Meeting dial-in details, meeting notes and agendas are announced and published on the [OKD-WG on Google Groups](https://groups.google.com/forum/#!forum/okd-wg)
+  
+  Meeting dial-in details, meeting notes and agendas are announced and published to the [OKD-WG mailing list on Google Groups](https://groups.google.com/forum/#!forum/okd-wg)
   
   
