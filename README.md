@@ -17,6 +17,9 @@ OKD Working Group Meetings
 
 The OKD Working Group meets on a Bi-weekly cadence on Tuesdays at 17:00 UTC 
 
+If you have a proposed topic for the upcoming meeting, please add an issue to the https://github.com/openshift/community/ repo with 
+label "OKD-WG Proposed Topic" and be sure to include the date of the meeting you which to present on!
+
 Next Scheduled Meeting:
   Tuesday 17:00 UTC October 15, 2019
   
