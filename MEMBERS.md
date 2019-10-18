@@ -28,3 +28,5 @@
 * Antonio Murdaca
 * Jaime Magiera
 * Jay Ryan
+* Joe Doss
+
