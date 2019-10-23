@@ -21,7 +21,7 @@ If you have a proposed topic for the upcoming meeting, please add an issue to th
 label "OKD-WG Proposed Topic" and be sure to include the date of the meeting you which to present on!
 
 Next Scheduled Meeting:
-  Tuesday 17:00 UTC October 15, 2019
+  Tuesday 17:00 UTC October 29, 2019
   
   Meeting dial-in details, meeting notes and agendas are announced and published to the [OKD-WG mailing list on Google Groups](https://groups.google.com/forum/#!forum/okd-wg)
   
