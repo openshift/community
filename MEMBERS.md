@@ -29,4 +29,5 @@
 * Jaime Magiera
 * Jay Ryan
 * Joe Doss
+* Lorenzo Dalrio
 
