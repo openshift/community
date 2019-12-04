@@ -30,4 +30,5 @@
 * Jay Ryan
 * Joe Doss
 * Lorenzo Dalrio
+* Michal Kopijasz
 
