@@ -52,9 +52,10 @@ Anything not explicitly considered in the scope above. Example include:
 
 ### Operations
 The OKD Working Group is run and managed by the following chairs:
-* Red Hat Community Development Liaison (CDL Chair) - Diane Mueller
-* External to Red Hat (Community Chair) - Dani Comnea
-* Red Hat Engineering Liaison (Engineering Chair) - Christian Glombek
+* Red Hat Community Development Liaison - Diane Mueller (Red Hat)
+* External to Red Hat - Jaime Magiera (UMich)
+* Red Hat Engineering Liaison - Vadim Rutkovsky (Red Hat)
+* Fedora CoreOS Engineering Liason - Timothée Ravier (Red Hat)
 
 Note: The referenced names and chair positions will be edited in-place as chairs are added, removed, or replaced. See the roles of chairs section for more information.
 
