@@ -1,11 +1,12 @@
 ## Chairs
-
-* Diane Mueller (Red Hat Community Development Liaison - CDL Chair)
-* Dani Comnea (External to Red Hat - Community Chair) 
-* Christian Glombek (Red Hat Engineering Liaison - Engineering Chair)
+Diane Mueller (Red Hat, Community Development Liaison - CDL Chair)
+Vadim Rutkovsky (Red Hat, Engineering Liaison)
+Timothée Ravier (Red Hat, Fedora CoreOS Engineering Liason)
+Jaime Magiera (UMich)
 
 ## Members
 * Clayton Coleman
+* Christian Glombek
 * Dusty Mabe
 * Sanja Bonic
 * Aleksandar Lazic
