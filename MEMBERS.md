@@ -32,4 +32,5 @@ Jaime Magiera (UMich)
 * Joe Doss
 * Lorenzo Dalrio
 * Michal Kopijasz
+* Sandro Bonazzola
 
