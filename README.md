@@ -20,7 +20,7 @@ The OKD Working Group meets on a Bi-weekly cadence on Tuesdays at 17:00 UTC
 If you have a proposed topic for the upcoming meeting, please add an issue to the https://github.com/openshift/community/ repo with 
 label "OKD-WG Proposed Topic" and be sure to include the date of the meeting you which to present on!
 
-Meeting Schedule is maintained here: https://apps.fedoraproject.org/calendar/okd/
+Meeting Schedule is maintained here: https://calendar.fedoraproject.org/okd/
 
 Meeting Agenda and Topics can be found here: https://github.com/openshift/community/projects/1
   
